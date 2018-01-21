@@ -1,0 +1,9 @@
+﻿  GameUnit.cpp
+c:\users\gimu7001\desktop\repos\wg7\wg7\gameunit.cpp(20): warning C4244: '-=': conversion from 'const double' to 'int', possible loss of data
+c:\users\gimu7001\desktop\repos\wg7\wg7\gameunit.cpp(96): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\gimu7001\desktop\repos\wg7\wg7\gameunit.cpp(115): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\gimu7001\desktop\repos\wg7\wg7\gameunit.cpp(126): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\gimu7001\desktop\repos\wg7\wg7\gameunit.cpp(191): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\gimu7001\desktop\repos\wg7\wg7\gameunit.cpp(213): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  wg7.vcxproj -> C:\Users\GiMu7001\Desktop\repos\wg7\Debug\wg7.exe
+  wg7.vcxproj -> C:\Users\GiMu7001\Desktop\repos\wg7\Debug\wg7.pdb (Partial PDB)
